@@ -1,0 +1,7 @@
+Flask==3.0.2
+Flask-SocketIO==5.3.4
+eventlet==0.35.2
+opencv-python-headless==4.8.0
+transformers==4.35.2
+qwen-vl-utils==0.0.1
+tqdm==4.66.2
