@@ -1,5 +1,4 @@
 
-```markdown
 # Real-Time Visual Assistance System for the Visually Impaired Using Qwen VL Models 
 
 ## About the Project
